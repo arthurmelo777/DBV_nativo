@@ -24,18 +24,18 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Arthur # 12548"
-            android:textSize="20sp"
             android:layout_weight="1"
-            android:gravity="start"/>
+            android:gravity="start"
+            android:text="Arthur#12"
+            android:textSize="20sp" />
 
     </LinearLayout>
 
-    <ImageButton
-        android:layout_width="51dp"
-        android:layout_height="50dp"
-        android:background="?attr/selectableItemBackgroundBorderless"
-        android:src="@android:drawable/ic_menu_edit" />
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="132dp"
+        android:layout_height="wrap_content"
+        android:text="Editar" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -46,18 +46,18 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Arthur # 12548"
-            android:textSize="20sp"
             android:layout_weight="1"
-            android:gravity="start"/>
+            android:gravity="start"
+            android:text="Isabella#34"
+            android:textSize="20sp" />
 
     </LinearLayout>
 
-    <ImageButton
-        android:layout_width="54dp"
-        android:layout_height="46dp"
-        android:background="?attr/selectableItemBackgroundBorderless"
-        android:src="@android:drawable/ic_menu_edit" />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="132dp"
+        android:layout_height="wrap_content"
+        android:text="Editar" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -68,18 +68,18 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Arthur # 12548"
-            android:textSize="20sp"
             android:layout_weight="1"
-            android:gravity="start"/>
+            android:gravity="start"
+            android:text="Gracon#56"
+            android:textSize="20sp" />
 
     </LinearLayout>
 
-    <ImageButton
-        android:layout_width="56dp"
-        android:layout_height="51dp"
-        android:background="?attr/selectableItemBackgroundBorderless"
-        android:src="@android:drawable/ic_menu_edit" />
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="132dp"
+        android:layout_height="wrap_content"
+        android:text="Editar" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -90,18 +90,18 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Arthur # 12548"
-            android:textSize="20sp"
             android:layout_weight="1"
-            android:gravity="start"/>
+            android:gravity="start"
+            android:text="Felipe#78"
+            android:textSize="20sp" />
 
     </LinearLayout>
 
-    <ImageButton
-        android:layout_width="58dp"
-        android:layout_height="51dp"
-        android:background="?attr/selectableItemBackgroundBorderless"
-        android:src="@android:drawable/ic_menu_edit" />
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="Editar" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -112,18 +112,18 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Arthur # 12548"
-            android:textSize="20sp"
             android:layout_weight="1"
-            android:gravity="start"/>
+            android:gravity="start"
+            android:text="Maure#90"
+            android:textSize="20sp" />
 
     </LinearLayout>
 
-    <ImageButton
-        android:layout_width="59dp"
-        android:layout_height="43dp"
-        android:background="?attr/selectableItemBackgroundBorderless"
-        android:src="@android:drawable/ic_menu_edit" />
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="132dp"
+        android:layout_height="wrap_content"
+        android:text="Editar" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -136,15 +136,15 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="start"
-            android:text="Arthur # 12548"
+            android:text="Melo#123"
             android:textSize="20sp" />
 
     </LinearLayout>
 
-    <ImageButton
-        android:layout_width="61dp"
-        android:layout_height="48dp"
-        android:background="?attr/selectableItemBackgroundBorderless"
-        android:src="@android:drawable/ic_menu_edit" />
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="136dp"
+        android:layout_height="wrap_content"
+        android:text="Editar" />
 
 </LinearLayout>
